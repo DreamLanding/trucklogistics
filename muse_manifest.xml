@@ -1,0 +1,97 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dnrlogistics.ru" resolutions="1x" timestamp="1458396738742">
+  <folder name="css">
+    <file name="site_global.css" crc="4103437533"/>
+    <file name="index.css" crc="3873436389" ref="index"/>
+    <file name="iefonts_index.css" crc="3932465694" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="23.mp4" crc="3777909790" seo="true" mt="1446706090000"/>
+    <file name="23.webm" crc="3972809833" seo="true" mt="1446706090000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u910.php" crc="3933161169" ref="index"/>
+    <file name="form-u789.php" crc="174392772" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form-u1094.php" crc="4092584772" ref="index"/>
+    <file name="form-u1144.php" crc="341500941" ref="index"/>
+    <file name="form-u1178.php" crc="521806144" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="form-u590.php" crc="4092693703" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1458228165_viber-01.png" crc="303791566" seo="true" ref="index"/>
+    <file name="1458228158_whatsapp-01.png" crc="455386862" seo="true" ref="index"/>
+    <file name="f6 icon time-u906.png" crc="3827432126" ref="index"/>
+    <file name="u916-17.png" crc="4124420645" ref="index"/>
+    <file name="u916-17-r.png" crc="4190621280" ref="index"/>
+    <file name="u916-17-m.png" crc="4190621280" ref="index"/>
+    <file name="u916-17-fs.png" crc="4124420645" ref="index"/>
+    <file name="f6 icone name 2-u927.png" crc="11908434" ref="index"/>
+    <file name="f6 icon phone 2-u929.png" crc="3956858774" ref="index"/>
+    <file name="u796-17.png" crc="527576473" ref="index"/>
+    <file name="u796-17-r.png" crc="527576473" ref="index"/>
+    <file name="u796-17-m.png" crc="527576473" ref="index"/>
+    <file name="u796-17-fs.png" crc="527576473" ref="index"/>
+    <file name="close 4-u898.png" crc="89384071" ref="index"/>
+    <file name="close 4-u898-r.png" crc="154713309" ref="index"/>
+    <file name="f6 icon time-u1113.png" crc="3827432126" ref="index"/>
+    <file name="u1096-17.png" crc="4124420645" ref="index"/>
+    <file name="u1096-17-r.png" crc="4190621280" ref="index"/>
+    <file name="u1096-17-m.png" crc="4190621280" ref="index"/>
+    <file name="u1096-17-fs.png" crc="4124420645" ref="index"/>
+    <file name="f6 icone name 2-u1092.png" crc="11908434" ref="index"/>
+    <file name="f6 icon phone 2-u1111.png" crc="3956858774" ref="index"/>
+    <file name="close 4-u1120.png" crc="89384071" ref="index"/>
+    <file name="close 4-u1120-r.png" crc="154713309" ref="index"/>
+    <file name="f6 icon time-u1137.png" crc="3827432126" ref="index"/>
+    <file name="u1156-17.png" crc="4124420645" ref="index"/>
+    <file name="u1156-17-r.png" crc="4190621280" ref="index"/>
+    <file name="u1156-17-m.png" crc="4190621280" ref="index"/>
+    <file name="u1156-17-fs.png" crc="4124420645" ref="index"/>
+    <file name="f6 icone name 2-u1140.png" crc="11908434" ref="index"/>
+    <file name="f6 icon phone 2-u1142.png" crc="3956858774" ref="index"/>
+    <file name="close 4-u1161.png" crc="89384071" ref="index"/>
+    <file name="close 4-u1161-r.png" crc="154713309" ref="index"/>
+    <file name="f6 icon time-u1199.png" crc="3827432126" ref="index"/>
+    <file name="u1189-17.png" crc="4124420645" ref="index"/>
+    <file name="u1189-17-r.png" crc="4190621280" ref="index"/>
+    <file name="u1189-17-m.png" crc="4190621280" ref="index"/>
+    <file name="u1189-17-fs.png" crc="4124420645" ref="index"/>
+    <file name="f6 icone name 2-u1197.png" crc="11908434" ref="index"/>
+    <file name="f6 icon phone 2-u1195.png" crc="3956858774" ref="index"/>
+    <file name="close 4-u1209.png" crc="89384071" ref="index"/>
+    <file name="close 4-u1209-r.png" crc="154713309" ref="index"/>
+    <file name="fon1.jpg" crc="3959919340" ref="index"/>
+    <file name="images.jpg" crc="397012530" seo="true" ref="index"/>
+    <file name="05-new-xf.jpg" crc="311727360" ref="index"/>
+    <file name="handshakew.png" crc="420848561" seo="true" ref="index"/>
+    <file name="truckinf.png" crc="522832216" seo="true" ref="index"/>
+    <file name="streamlinew.png" crc="4278175402" seo="true" ref="index"/>
+    <file name="t_tgs-lx1.jpg" crc="3798327242" ref="index"/>
+    <file name="06-new-xf.jpg" crc="3810482963" ref="index"/>
+    <file name="renauil-magnum-u519-fr.png" crc="3947138787" ref="index"/>
+    <file name="world_map_overlay.png" crc="108888980" seo="true" ref="index"/>
+    <file name="1458240815_back.png" crc="181321974" ref="index"/>
+    <file name="1458240810_forward.png" crc="3900661805" ref="index"/>
+    <file name="u621-17.png" crc="426425721" ref="index"/>
+    <file name="u621-17-r.png" crc="4053023527" ref="index"/>
+    <file name="u621-17-m.png" crc="4006502020" ref="index"/>
+    <file name="u621-17-fs.png" crc="4093994171" ref="index"/>
+    <file name="1458241277_call01.png" crc="4043599961" ref="index"/>
+    <file name="1458241272_profile01.png" crc="4083329139" ref="index"/>
+    <file name="fon2.jpg" crc="4139718337" ref="index"/>
+    <file name="med2587.png" crc="4052052432" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3789852590" seo="true" mt="1458396138034" redirect="true"/>
+</manifest>
